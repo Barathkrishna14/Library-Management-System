@@ -1,0 +1,19 @@
+#search {
+    margin:30px;
+    padding-right: 1000px;
+}
+
+#sResults {
+    margin: 60px auto;
+    width: 310%;
+    border-radius: 8px;
+    background-color: rgb(238, 242, 246);
+}
+.btn-success{
+    margin-left: 500px;
+    margin-top:-66px;
+}
+
+.table td {
+    vertical-align: middle;
+}
