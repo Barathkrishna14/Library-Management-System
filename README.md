@@ -10,7 +10,12 @@ Even We can send a mail if book is borrow and returned.
 Client can search a Book By Book Name , Published Date , Author ect...
 
 ## ScreenShots
-
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/Home.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/Login.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/SignUp.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/Dashboard.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/Search.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/master/Admin.png)
 
 ### `npm start`
 
