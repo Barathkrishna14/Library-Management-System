@@ -5,5 +5,5 @@ Using Eclipse IDE to Run Java Servlet.
 
 ## POSTGRESQL
 Here The Data Base Used Is PostgreSQL
-![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/main/PostgrsQL.png)
+![alt text](https://github.com/Barathkrishna14/Library-Management-System/blob/main/PostgresQL.png)
 
