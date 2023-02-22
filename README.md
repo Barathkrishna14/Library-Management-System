@@ -1,6 +1,6 @@
 # LIBRARY MANAGEMENT SYSTEM
 
-The Library Management Project was developed in the language of React Js./n
+The Library Management Project was developed in the language of React Js...
 Here Let me Attach the YouTube Url of My Project
 https://www.youtube.com/watch?v=OR5B5s9EFL8&list=PLJp5eQNrR9m3sTe0JKKFPpf6ZH0DxbdHV
 
