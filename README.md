@@ -1,8 +1,8 @@
 # LIBRARY MANAGEMENT SYSTEM
 
-The Library Management Project was developed in the language of React Js.
+The Library Management Project was developed in the language of React Js./n
 Here Let me Attach the YouTube Url of My Project
-![alt text](https://www.youtube.com/watch?v=OR5B5s9EFL8&list=PLJp5eQNrR9m3sTe0JKKFPpf6ZH0DxbdHV)
+https://www.youtube.com/watch?v=OR5B5s9EFL8&list=PLJp5eQNrR9m3sTe0JKKFPpf6ZH0DxbdHV
 
 ## Features
 Here The Admin can Handle or Manage The Users And Books and they also borrow and return a book.
